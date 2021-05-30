@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for ZTM udemy course and is published at https://sujithchenanath909.github.io/RoboFriends/
 
 ## Available Scripts
 
